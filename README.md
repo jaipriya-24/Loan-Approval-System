@@ -48,4 +48,40 @@ This system uses **machine learning algorithms** to automate the loan approval p
 
 ---
 
+## 📊 Dataset Description
 
+The dataset contains the following features:
+
+- Applicant Income
+- Coapplicant Income
+- Loan Amount
+- Loan Amount Term
+- Credit History
+- Gender
+- Marital Status
+- Education
+- Self Employed
+- Property Area
+- Loan Status (Target Variable)
+
+---
+
+## 🤖 Model Used
+
+- Logistic Regression  
+- KNN
+- Naive Bayes
+
+---
+
+## 📈 Model Evaluation
+
+- Precision
+- Accuracy Score
+- F1 score
+- Recall
+
+---
+
+## 📌 Results
+The trained model successfully predicts whether a loan application should be Approved (Y) or Rejected (N) based on historical data patterns.
